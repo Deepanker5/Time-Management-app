@@ -3,7 +3,7 @@
 This is a time management app that I built using python and the PyQt5 library for the GUI
 
 # File and directory structure
-The final project files are "time_management.py", "subject_object.py" and "time_spent_object.py"
+The final project files are "time_management.py", "Subject.py" and "time_spent_object.py"
 
 # installation instructions
 The files to be downloaded for the final project files are "check_boxes.py", "subject_object.py" and "time_spent_object.py"
