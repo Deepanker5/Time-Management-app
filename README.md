@@ -12,4 +12,6 @@ The libraries to be installed are the following: pyqt5, and json.
 # User Instructions
 Run the program and when you want to add a subject, do it in the following manner "subject name, hours required" and press the OK button.
 In order to access the previous data file, run the stop_watch and then press the "reset" button then press the "show day's progress" button, then the program should open a file which shows the time spent during the day.
+
+# Sample of the GUI
 <img width="852" alt="image" src="https://user-images.githubusercontent.com/95539000/200757907-091e3e64-6819-4d30-971f-d619e4722f85.png">
